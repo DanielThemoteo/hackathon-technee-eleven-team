@@ -3,7 +3,6 @@
 
 Com muito carinho a equipe 11 desenvolveu uma aplicação web para demonstrar um pouquinho sobre o MVP do nosso projeto.
 
-## O que a plataforma é capaz de fazer 
 
 ## Stack 💻
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
